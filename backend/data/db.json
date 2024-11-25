@@ -1,0 +1,12 @@
+{
+    "users": [
+      { "id": 1, "email": "admin@example.com", "password": "123456" },
+      { "id": 2, "email": "user@example.com", "password": "password" }
+    ],
+    "products": [
+      { "id": 1, "name": "Áo thun", "price": 200000, "category": "Thời trang" },
+      { "id": 2, "name": "Điện thoại", "price": 5000000, "category": "Công nghệ" },
+      { "id": 3, "name": "Laptop", "price": 15000000, "category": "Công nghệ" }
+    ]
+  }
+  
